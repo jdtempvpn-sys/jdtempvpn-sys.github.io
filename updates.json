@@ -5,6 +5,10 @@
         {
           "version": "1.0.0",
           "update_link": "https://jdtempvpn-sys.github.io/addon-1.0.0.zip"
+        },
+	{
+          "version": "1.0.1",
+          "update_link": "https://jdtempvpn-sys.github.io/addon-1.0.1.zip"
         }
       ]
     }
